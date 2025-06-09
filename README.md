@@ -1,3 +1,3 @@
 # Example
 
-Ceci est un **cool repo **  by Olaf.
+Ceci est un **cool repo**  by Olaf.
